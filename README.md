@@ -1,2 +1,1 @@
-# lachadev.github.io
-I vibe coded the rest of the websites
+I vibe coded the rest of the websites (i dont like webdev)
